@@ -1,6 +1,6 @@
 {
   "name": "use-deep",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "description": "use-deep is a React hook library that provides deep-equality versions of useEffect, useCallback, and useMemo, ensuring more accurate dependency comparison for complex data structures.",
   "main": "dist/index.js",
@@ -10,7 +10,8 @@
   "license": "MIT",
   "private": false,
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "scripts": {
     "build": "vite build"
